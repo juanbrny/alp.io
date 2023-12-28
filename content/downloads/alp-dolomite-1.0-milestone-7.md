@@ -33,13 +33,13 @@ https://updates.suse.com/SUSE/Products/ALP-Dolomite/1.0/x86_64/ALP-Dolomite.x86_
 
 As a Milestone 7 , we still do not provide a comprehensive list of changes. But here are some notable changes:
 
-&#2022; Agama installer has been excluded from Dolomite specification.
+&#8226; Agama installer has been excluded from Dolomite specification.
 
-&#2022; Starting this Milestone it is not a part of Dolomite delivery. For installation, bootable images must be used.
+&#8226; Starting this Milestone it is not a part of Dolomite delivery. For installation, bootable images must be used.
 
-&#2022; Number of packages have been updated
+&#8226; Number of packages have been updated
 
-&#2022; Added fixes for known issues from Milestone 6 
+&#8226; Added fixes for known issues from Milestone 6 
 
 
 
